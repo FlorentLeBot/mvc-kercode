@@ -23,7 +23,6 @@ class AdminModel extends Manager
         return $req;
     }
 
-
     public function compte($id)
     {
         $bdd = $this->dbConnect();

@@ -40,7 +40,6 @@ class ContactModel extends Manager
           return $req;
       }
 
-
        /*================================ show one mail  ====================================*/
 
       public function getMail($id)
